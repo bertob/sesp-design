@@ -106,13 +106,13 @@ body {
 .btn {
   height: 12mozmm;
   background-color: #d8d8d8;
-  font-size: 8mozmm;
   font-weight: 400;
   border: none;
   border-radius: none;
 }
 .countbtn {
   width: 12mozmm;
+  font-size: 8mozmm;
 }
 .itemcount {
   width: 12mozmm;
