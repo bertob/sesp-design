@@ -87,7 +87,7 @@ body {
   background-color: #f2f2f2;
 }
 .expirationrow {
-  
+  background-color: red;
 }
 .expirationrow > *, .expirationrow > .countcontainer > *  {
   display: inline-block;
@@ -95,9 +95,6 @@ body {
 .countcontainer {
   float: right;
   width: 36mozmm;
-}
-.countcontainer > * {
-  
 }
 .countbtn {
   width: 10mozmm;
