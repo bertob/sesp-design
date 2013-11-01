@@ -99,7 +99,8 @@ body {
 .countbtn {
   width: 11mozmm;
   color: #d8d8d8;
-  
+  border: none;
+  border-radius: none;
 }
 .itemcount {
   width: 12mozmm;
