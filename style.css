@@ -120,6 +120,6 @@ body {
   font-family: "Roboto Condensed";
 }
 .addexpdatebtn {
-  width: calc(100% - 6mozmm)
+  width: calc(100% - 6mozmm);
   text-align: center;
 }
