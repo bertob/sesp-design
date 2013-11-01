@@ -30,7 +30,7 @@ body {
   margin: 0;
   padding: 3mozmm;
   height: 10mozmm;
-  positon: fixed;
+  positon: static;
 }
 #topleft {
   float: left;
