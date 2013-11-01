@@ -92,7 +92,7 @@ body {
 .expirationrow > *, .expirationrow > .changecount > *  {
   display: inline-block;
 }
-.changecount {
+.countcontainer {
   float: right;
   width: 36mozmm;
   
