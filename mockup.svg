@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58541667"
-     inkscape:cx="270.61544"
-     inkscape:cy="-1592.3863"
+     inkscape:zoom="1.6558084"
+     inkscape:cx="825.02297"
+     inkscape:cy="-1685.5103"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -12044,16 +12044,9 @@
        style="fill:#666666;fill-opacity:1;stroke:none"
        id="rect2532"
        width="320"
-       height="250"
+       height="235"
        x="12110"
        y="1432.3622" />
-    <rect
-       y="1622.3622"
-       x="12110"
-       height="60.000011"
-       width="320"
-       id="rect2645"
-       style="fill:#333333;fill-opacity:1;stroke:none" />
     <rect
        y="1442.3622"
        x="12120"
@@ -12155,11 +12148,47 @@
        x="12120"
        y="1577.3622" />
     <rect
+       y="1607.3622"
+       x="12110"
+       height="60.000011"
+       width="320"
+       id="rect2645"
+       style="fill:#333333;fill-opacity:1;stroke:none" />
+    <rect
        style="fill:#666666;fill-opacity:1;stroke:none"
        id="rect2625-4"
-       width="40"
+       width="130"
        height="40"
        x="12120"
-       y="1632.3622" />
+       y="1617.3622" />
+    <rect
+       y="1617.3622"
+       x="12290"
+       height="40"
+       width="130"
+       id="rect2651"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2611-9"
+       y="1642.3622"
+       x="12185.132"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1642.3622"
+         x="12185.132"
+         id="tspan2613-2"
+         sodipodi:role="line">Cancel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="12355.132"
+       y="1642.3622"
+       id="text2674"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2676"
+         x="12355.132"
+         y="1642.3622">Add product</tspan></text>
   </g>
 </svg>
