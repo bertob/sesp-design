@@ -99,7 +99,9 @@ body {
 .less {
   float: left;
 }
-.more {}
+.more {
+  float: right;
+}
 .date {
   margin-top: 1mozmm;
 }
