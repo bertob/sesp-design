@@ -97,6 +97,7 @@ body {
   width: 40mozmm;
 }
 .countcontainer > * {
+  display: inline-block;
   float: right;
 }
 .date {
