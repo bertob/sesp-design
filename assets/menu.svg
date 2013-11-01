@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,19 +57,24 @@
      id="layer1"
      transform="translate(-301.42856,-235.21921)">
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 311.42857,255.21922 20,0"
-       id="path2935"
-       inkscape:connector-curvature="0" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.23606801;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       d="M 10 10.882812 L 10 13.119141 L 30 13.119141 L 30 10.882812 L 10 10.882812 z M 10 18.882812 L 10 21.119141 L 30 21.119141 L 30 18.882812 L 10 18.882812 z M 10 26.882812 L 10 29.119141 L 30 29.119141 L 30 26.882812 L 10 26.882812 z "
+       transform="translate(301.42856,235.21921)"
+       id="path2935" />
     <path
        inkscape:connector-curvature="0"
-       id="path2937"
-       d="m 311.42857,247.21922 20,0"
+       id="path10"
+       d="m 311.42857,205.21922 20,0"
        style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 311.42857,263.21922 20,0"
-       id="path2939"
+       d="m 311.42857,197.21922 20,0"
+       id="path12"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14"
+       d="m 311.42857,213.21922 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>
