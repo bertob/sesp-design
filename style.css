@@ -97,10 +97,11 @@ body {
   width: 36mozmm;
 }
 .countcontainer > * {
-  height: 12mozmm;
+  
 }
 .countbtn {
   width: 10mozmm;
+  height: 12mozmm;
   background-color: #d8d8d8;
   border: none;
   border-radius: none;
