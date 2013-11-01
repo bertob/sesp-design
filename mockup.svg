@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3116168"
-     inkscape:cx="80.232651"
-     inkscape:cy="-1469.9144"
+     inkscape:zoom="2.3416667"
+     inkscape:cx="136.10781"
+     inkscape:cy="-1439.6511"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -11881,20 +11881,20 @@
        height="40"
        width="40"
        id="rect2649"
-       style="fill:#333333;fill-opacity:1;stroke:none" />
+       style="fill:#666666;fill-opacity:1;stroke:none" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 11350,1402.3622 25,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11350,1402.3622 20,0"
        id="path2400"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path2402"
-       d="m 11350,1392.3622 25,0"
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       d="m 11350,1392.3622 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 11350,1412.3622 25,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11350,1412.3622 20,0"
        id="path2404"
        inkscape:connector-curvature="0" />
     <rect
