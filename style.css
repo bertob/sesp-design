@@ -88,7 +88,7 @@ body {
 }
 .expirationrow {
   background-color: red;
-  height: 20mozmm;
+  height: 12mozmm;
 }
 .expirationrow > *, .expirationrow > .countcontainer > *  {
   display: inline-block;
