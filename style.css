@@ -92,9 +92,9 @@ body {
 .expirationrow > *, .expirationrow > .changecount > *  {
   display: inline-block;
 }
-.countcontainer {
+.changecount {
   float: right;
-  width: 38mozmm;
+  width: 36mozmm;
   
 }
 .countbtn {
