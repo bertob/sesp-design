@@ -12870,5 +12870,105 @@
          id="tspan2222"
          x="12687.58"
          y="1882.3622">Add product</tspan></text>
+    <rect
+       y="1862.3622"
+       x="11340"
+       height="35"
+       width="300"
+       id="rect2224"
+       style="fill:#999999;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11385.001"
+       y="1884.3622"
+       id="text2226"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2228"
+         x="11385.001"
+         y="1884.3622">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+    <rect
+       style="fill:#40c3fe;fill-opacity:1;stroke:none"
+       id="rect2230"
+       width="35"
+       height="35"
+       x="11340"
+       y="1862.3622" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect2232"
+       width="300"
+       height="35"
+       x="11340"
+       y="1907.3622" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2234"
+       y="1929.3622"
+       x="11385.001"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1929.3622"
+         x="11385.001"
+         id="tspan2236"
+         sodipodi:role="line">&quot;KitKat&quot; Chocolate</tspan></text>
+    <rect
+       y="1907.3622"
+       x="11340"
+       height="35"
+       width="35"
+       id="rect2238"
+       style="fill:#ea1616;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect2240"
+       width="300"
+       height="35"
+       x="11340"
+       y="1952.3622" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2242"
+       y="1974.3622"
+       x="11385.001"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1974.3622"
+         x="11385.001"
+         id="tspan2244"
+         sodipodi:role="line">&quot;Fonzies&quot; Potato Chips</tspan></text>
+    <rect
+       y="1952.3622"
+       x="11340"
+       height="35"
+       width="35"
+       id="rect2246"
+       style="fill:#fbe107;fill-opacity:1;stroke:none" />
+    <rect
+       y="1997.3622"
+       x="11340"
+       height="35"
+       width="300"
+       id="rect2248"
+       style="fill:#999999;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11385.001"
+       y="2019.3622"
+       id="text2250"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2252"
+         x="11385.001"
+         y="2019.3622">&quot;Mars&quot; Chocolate Bars</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect2254"
+       width="35"
+       height="35"
+       x="11340"
+       y="1997.3622" />
   </g>
 </svg>
