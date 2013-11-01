@@ -94,12 +94,12 @@ body {
 }
 .changecount {
   float: right;
-  width: 30mozmm;
+  width: 36mozmm;
 }
 .countbtn {
-  width: 8mozmm;
+  width: 12mozmm;
 }
 .itemcount {
-  width: 10mozmm;
+  width: 12mozmm;
   text-align: center;
 }
