@@ -86,4 +86,6 @@ body {
 .expirationrow {
   
 }
-.expirationrow > *
+.expirationrow > * {
+  display: inline block;
+}
