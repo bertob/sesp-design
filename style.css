@@ -93,5 +93,5 @@ body {
   display: inline-block;
 }
 .changecount {
-  
+  float: right;
 }
