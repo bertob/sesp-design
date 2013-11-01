@@ -88,6 +88,6 @@ body {
 .expirationrow {
   
 }
-.expirationrow > *, .expirationrow >   {
+.expirationrow > *, .expirationrow > .changecount > *  {
   display: inline-block;
 }
