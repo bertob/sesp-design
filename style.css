@@ -95,6 +95,8 @@ body {
 .countcontainer {
   float: right;
   width: 36mozmm;
+}
+.countcontainer {
   height: 20mozmm;
 }
 .countbtn {
