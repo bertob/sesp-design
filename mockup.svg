@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.82790419"
-     inkscape:cx="736.43878"
-     inkscape:cy="-1740.5224"
+     inkscape:zoom="0.58541667"
+     inkscape:cx="270.61544"
+     inkscape:cy="-1592.3863"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -11875,6 +11875,13 @@
          id="tspan2398"
          x="11490"
          y="1407.8564">Free University Bolzan...</tspan></text>
+    <rect
+       y="1382.3622"
+       x="11340"
+       height="40"
+       width="40"
+       id="rect2649"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 11350,1402.3622 25,0"
