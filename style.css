@@ -87,7 +87,6 @@ body {
   background-color: #f2f2f2;
 }
 .expirationrow {
-  background-color: red;
   height: 12mozmm;
 }
 .expirationrow > *, .expirationrow > .countcontainer > *  {
