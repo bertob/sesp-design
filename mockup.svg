@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6558084"
-     inkscape:cx="825.02297"
-     inkscape:cy="-1685.5103"
+     inkscape:zoom="3.3116168"
+     inkscape:cx="80.232651"
+     inkscape:cy="-1469.9144"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -11881,7 +11881,7 @@
        height="40"
        width="40"
        id="rect2649"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
+       style="fill:#333333;fill-opacity:1;stroke:none" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 11350,1402.3622 25,0"
@@ -12190,5 +12190,155 @@
          id="tspan2676"
          x="12355.132"
          y="1642.3622">Add product</tspan></text>
+    <rect
+       y="1432.3622"
+       x="11330"
+       height="235"
+       width="320"
+       id="rect2678"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect2680"
+       width="300"
+       height="35"
+       x="11340"
+       y="1442.3622" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2682"
+       y="1464.3622"
+       x="11385.001"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1464.3622"
+         x="11385.001"
+         id="tspan2684"
+         sodipodi:role="line">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+    <rect
+       y="1442.3622"
+       x="11340"
+       height="35"
+       width="35"
+       id="rect2686"
+       style="fill:#40c3fe;fill-opacity:1;stroke:none" />
+    <rect
+       y="1487.3622"
+       x="11340"
+       height="35"
+       width="300"
+       id="rect2688"
+       style="fill:#999999;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11385.001"
+       y="1509.3622"
+       id="text2690"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2692"
+         x="11385.001"
+         y="1509.3622">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+    <rect
+       style="fill:#40c3fe;fill-opacity:1;stroke:none"
+       id="rect2694"
+       width="35"
+       height="35"
+       x="11340"
+       y="1487.3622" />
+    <rect
+       y="1532.3622"
+       x="11340"
+       height="35"
+       width="300"
+       id="rect2696"
+       style="fill:#999999;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11385.001"
+       y="1554.3622"
+       id="text2698"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2700"
+         x="11385.001"
+         y="1554.3622">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+    <rect
+       style="fill:#40c3fe;fill-opacity:1;stroke:none"
+       id="rect2702"
+       width="35"
+       height="35"
+       x="11340"
+       y="1532.3622" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect2704"
+       width="300"
+       height="35"
+       x="11340"
+       y="1577.3622" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2706"
+       y="1599.3622"
+       x="11385.001"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1599.3622"
+         x="11385.001"
+         id="tspan2708"
+         sodipodi:role="line">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+    <rect
+       y="1577.3622"
+       x="11340"
+       height="35"
+       width="35"
+       id="rect2710"
+       style="fill:#40c3fe;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect2712"
+       width="320"
+       height="60.000011"
+       x="11330"
+       y="1607.3622" />
+    <rect
+       y="1617.3622"
+       x="11340"
+       height="40"
+       width="130"
+       id="rect2714"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="rect2716"
+       width="130"
+       height="40"
+       x="11510"
+       y="1617.3622" />
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11405.132"
+       y="1642.3622"
+       id="text2718"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2720"
+         x="11405.132"
+         y="1642.3622">Cancel</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text2722"
+       y="1642.3622"
+       x="11575.132"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1642.3622"
+         x="11575.132"
+         id="tspan2724"
+         sodipodi:role="line">Add product</tspan></text>
   </g>
 </svg>
