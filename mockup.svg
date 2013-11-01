@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29270834"
-     inkscape:cx="623.66281"
-     inkscape:cy="-633.09718"
+     inkscape:zoom="0.82790419"
+     inkscape:cx="710.64914"
+     inkscape:cy="-1697.4637"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -44,11 +44,11 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     inkscape:window-width="682"
+     inkscape:window-width="1366"
      inkscape:window-height="703"
-     inkscape:window-x="683"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -77,6 +77,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-11330,557.63782)">
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="rect2448"
+       width="720"
+       height="220.00002"
+       x="11740"
+       y="1622.3622" />
     <rect
        style="fill:#40c3fe;fill-opacity:1;stroke:none"
        id="rect8608"
@@ -11643,799 +11650,302 @@
        id="path2056"
        inkscape:connector-curvature="0" />
     <rect
-       y="1402.3622"
-       x="11220"
-       height="480"
-       width="540"
-       id="rect2058"
-       style="fill:#40c3fe;fill-opacity:1;stroke:none" />
+       style="fill:#ea1616;fill-opacity:1;stroke:none"
+       id="rect2328"
+       width="80"
+       height="80"
+       x="11340"
+       y="1622.3623" />
     <rect
-       y="1402.3622"
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       y="1372.3623"
        x="11330"
-       height="1200"
+       height="480"
        width="320"
-       id="rect2060"
+       id="rect2330"
        style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
     <rect
-       y="1872.3622"
-       x="11340"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect2332"
+       width="300"
        height="80"
-       width="80"
-       id="rect2062"
-       style="fill:#ea1616;fill-opacity:1;stroke:none" />
+       x="11340"
+       y="1442.3623" />
     <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2064"
-       width="320"
-       height="480"
-       x="11330"
-       y="1402.3622" />
-    <rect
-       y="1472.3622"
+       y="1712.3623"
        x="11340"
        height="80"
        width="300"
-       id="rect2066"
+       id="rect2334"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect2068"
-       width="300"
-       height="80"
-       x="11340"
-       y="1962.3622" />
-    <rect
-       y="1962.3622"
-       x="11340"
-       height="80"
+       style="fill:#ea1616;fill-opacity:1;stroke:none"
+       id="rect2336"
        width="80"
-       id="rect2070"
-       style="fill:#ea1616;fill-opacity:1;stroke:none" />
+       height="80"
+       x="11340"
+       y="1712.3623" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2338"
+       y="1464.3623"
+       x="11432"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1464.3623"
+         x="11432"
+         id="tspan2340"
+         sodipodi:role="line">&quot;Fonzies&quot; Potato Chips</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
+       x="11435"
+       y="1502.3623"
+       id="text2342"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2344"
+         x="11435"
+         y="1502.3623">14 / 20</tspan></text>
+    <rect
+       y="1532.3623"
+       x="11340"
+       height="80"
+       width="300"
+       id="rect2346"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect2348"
+       width="80"
+       height="80"
+       x="11340"
+       y="1532.3623" />
     <text
        xml:space="preserve"
        style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
        x="11432"
-       y="1494.3622"
-       id="text2072"
+       y="1554.3623"
+       id="text2350"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2074"
+         id="tspan2352"
          x="11432"
-         y="1494.3622">&quot;Fonzies&quot; Potato Chips</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2076"
-       y="1532.3622"
-       x="11435"
-       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       xml:space="preserve"><tspan
-         y="1532.3622"
-         x="11435"
-         id="tspan2078"
-         sodipodi:role="line">14 / 20</tspan></text>
+         y="1554.3623">&quot;Mars&quot; Chocolate Bars</tspan></text>
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect2080"
-       width="300"
-       height="80"
-       x="11340"
-       y="1562.3622" />
-    <rect
-       y="1642.3622"
-       x="11340"
-       height="220"
-       width="300"
-       id="rect2082"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
-    <rect
-       y="1562.3622"
-       x="11340"
-       height="80"
-       width="80"
-       id="rect2084"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2086"
-       y="1584.3622"
-       x="11432"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       xml:space="preserve"><tspan
-         y="1584.3622"
-         x="11432"
-         id="tspan2088"
-         sodipodi:role="line">&quot;Mars&quot; Chocolate Bars</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect2090"
-       width="90"
-       height="40"
+       y="1562.3623"
        x="11428"
-       y="1592.3622" />
+       height="40"
+       width="90"
+       id="rect2354"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <text
-       xml:space="preserve"
-       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
+       sodipodi:linespacing="125%"
+       id="text2356"
+       y="1592.3623"
        x="11435.255"
-       y="1622.3622"
-       id="text2092"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2094"
+       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
+       xml:space="preserve"><tspan
+         y="1592.3623"
          x="11435.255"
-         y="1622.3622">10 / 15</tspan></text>
-    <rect
-       y="1872.3622"
-       x="11340"
-       height="80"
-       width="300"
-       id="rect2096"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       x="11432"
-       y="1894.3622"
-       id="text2098"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2100"
-         x="11432"
-         y="1894.3622">&quot;Balsen&quot; Cookies</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2102"
-       y="1932.3622"
-       x="11435"
-       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       xml:space="preserve"><tspan
-         y="1932.3622"
-         x="11435"
-         id="tspan2104"
-         sodipodi:role="line">19 / 20</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2106"
-       y="1984.3622"
-       x="11432"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       xml:space="preserve"><tspan
-         y="1984.3622"
-         x="11432"
-         id="tspan2108"
-         sodipodi:role="line">&quot;KitKat&quot; Chocolate</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       x="11435"
-       y="2022.3622"
-       id="text2110"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2112"
-         x="11435"
-         y="2022.3622">11 / 20</tspan></text>
-    <rect
-       style="fill:#024ca3;fill-opacity:1;stroke:none"
-       id="rect2114"
-       width="80"
-       height="80"
-       x="11340"
-       y="1872.3622" />
-    <rect
-       y="2052.3623"
-       x="11340"
-       height="80"
-       width="300"
-       id="rect2116"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#40c3fe;fill-opacity:1;stroke:none"
-       id="rect2118"
-       width="80"
-       height="80"
-       x="11340"
-       y="2052.3623" />
-    <text
-       xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       x="11432"
-       y="2074.3623"
-       id="text2120"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2122"
-         x="11432"
-         y="2074.3623">&quot;CoolMint&quot; Chewing Gum</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2124"
-       y="2112.3623"
-       x="11435"
-       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       xml:space="preserve"><tspan
-         y="2112.3623"
-         x="11435"
-         id="tspan2126"
-         sodipodi:role="line">8 / 20</tspan></text>
-    <rect
-       y="1652.3622"
-       x="11340"
-       height="50"
-       width="300"
-       id="rect2128"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       x="11360"
-       y="1682.3622"
-       id="text2130"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2132"
-         x="11360"
-         y="1682.3622">Jun 05. 2014</tspan></text>
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect2134"
-       width="300"
-       height="50"
-       x="11340"
-       y="1702.3622" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2136"
-       y="1732.3622"
-       x="11360"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       xml:space="preserve"><tspan
-         y="1732.3622"
-         x="11360"
-         id="tspan2138"
-         sodipodi:role="line">Aug 02. 2015</tspan></text>
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect2140"
-       width="300"
-       height="50"
-       x="11340"
-       y="1752.3622" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2142"
-       y="1782.3622"
-       x="11360"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       xml:space="preserve"><tspan
-         y="1782.3622"
-         x="11360"
-         id="tspan2144"
-         sodipodi:role="line">Feb 16. 2017</tspan></text>
-    <rect
-       y="1657.3622"
-       x="11500"
-       height="40"
-       width="40"
-       id="rect2146"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
-    <g
-       style="stroke:#333333;stroke-width:3.14970398;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.7,0,0,0.9,8905.5,1477.2362)"
-       id="g2148">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path2150"
-         d="m 3726.4286,222.36218 17.1428,0"
-         style="fill:none;stroke:#333333;stroke-width:3.14970398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2152"
-       width="40"
-       height="40"
-       x="11500"
-       y="1707.3622" />
-    <g
-       id="g2154"
-       transform="matrix(0.7,0,0,0.9,8905.5,1527.2362)"
-       style="stroke:#333333;stroke-width:3.14970398;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         style="fill:none;stroke:#333333;stroke-width:3.14970398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3726.4286,222.36218 17.1428,0"
-         id="path2156"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-    </g>
-    <rect
-       y="1757.3622"
-       x="11500"
-       height="40"
-       width="40"
-       id="rect2158"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
-    <g
-       style="stroke:#333333;stroke-width:3.14970398;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.7,0,0,0.9,8905.5,1577.2362)"
-       id="g2160">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path2162"
-         d="m 3726.4286,222.36218 17.1428,0"
-         style="fill:none;stroke:#333333;stroke-width:3.14970398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <rect
-       y="1812.3622"
-       x="11350"
-       height="40"
-       width="280"
-       id="rect2164"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       x="11490"
-       y="1837.3622"
-       id="text2166"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan2168"
-         sodipodi:role="line"
-         x="11490"
-         y="1837.3622">Add new expiration date</tspan></text>
-    <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2170"
-       width="40"
-       height="40"
-       x="11590"
-       y="1707.3622" />
-    <g
-       id="g2172"
-       transform="matrix(0.6000001,0,0,0.6000001,9368.9996,1593.9448)"
-       style="stroke:#333333;stroke-width:4.16666603;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3725,222.36218 20,0"
-         id="path2174"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2176"
-         d="m 3735,212.36218 0,20"
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       x="11565"
-       y="1736.3622"
-       id="text2178"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2180"
-         x="11565"
-         y="1736.3622">5</tspan></text>
-    <rect
-       y="1657.3622"
-       x="11590"
-       height="40"
-       width="40"
-       id="rect2182"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
-    <g
-       style="stroke:#333333;stroke-width:4.16666603;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.6000001,0,0,0.6000001,9368.9996,1543.9448)"
-       id="g2184">
-      <path
-         inkscape:connector-curvature="0"
-         id="path2186"
-         d="m 3725,222.36218 20,0"
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3735,212.36218 0,20"
-         id="path2188"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2190"
-       y="1686.3622"
-       x="11565"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       xml:space="preserve"><tspan
-         y="1686.3622"
-         x="11565"
-         id="tspan2192"
-         sodipodi:role="line">2</tspan></text>
-    <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2194"
-       width="40"
-       height="40"
-       x="11590"
-       y="1757.3622" />
-    <g
-       id="g2196"
-       transform="matrix(0.6000001,0,0,0.6000001,9368.9996,1643.9448)"
-       style="stroke:#333333;stroke-width:4.16666603;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3725,222.36218 20,0"
-         id="path2198"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2200"
-         d="m 3735,212.36218 0,20"
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       x="11565"
-       y="1786.3622"
-       id="text2202"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2204"
-         x="11565"
-         y="1786.3622">3</tspan></text>
-    <rect
-       style="fill:#fbe107;fill-opacity:1;stroke:none"
-       id="rect2206"
-       width="80"
-       height="80"
-       x="11340"
-       y="1472.3622" />
-    <rect
-       y="1402.3622"
-       x="11330"
-       height="59.999996"
-       width="320"
-       id="rect2208"
-       style="fill:#333333;fill-opacity:1;stroke:none" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2210"
-       y="1437.8563"
-       x="11490"
-       style="font-size:16.25px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       xml:space="preserve"><tspan
-         y="1437.8563"
-         x="11490"
-         id="tspan2212"
-         sodipodi:role="line">Free University Bolzan...</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path2214"
-       d="m 11350,1432.3622 25,0"
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 11350,1422.3622 25,0"
-       id="path2216"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2218"
-       d="m 11350,1442.3622 25,0"
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 11610,1432.3622 20,0"
-       id="path2220"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2222"
-       d="m 11620,1422.3622 0,20"
-       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         id="tspan2358"
+         sodipodi:role="line">10 / 15</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect2224"
+       id="rect2360"
        width="300"
        height="80"
        x="11340"
-       y="2142.3623" />
+       y="1622.3623" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2362"
+       y="1644.3623"
+       x="11432"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1644.3623"
+         x="11432"
+         id="tspan2364"
+         sodipodi:role="line">&quot;Balsen&quot; Cookies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
+       x="11435"
+       y="1682.3623"
+       id="text2366"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2368"
+         x="11435"
+         y="1682.3623">19 / 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11432"
+       y="1734.3623"
+       id="text2370"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2372"
+         x="11432"
+         y="1734.3623">&quot;KitKat&quot; Chocolate</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text2374"
+       y="1772.3623"
+       x="11435"
+       style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
+       xml:space="preserve"><tspan
+         y="1772.3623"
+         x="11435"
+         id="tspan2376"
+         sodipodi:role="line">11 / 20</tspan></text>
     <rect
-       y="2142.3623"
+       y="1622.3623"
        x="11340"
        height="80"
        width="80"
-       id="rect2226"
+       id="rect2378"
+       style="fill:#024ca3;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect2380"
+       width="300"
+       height="50"
+       x="11340"
+       y="1802.3623" />
+    <rect
+       y="1802.3623"
+       x="11340"
+       height="50"
+       width="80"
+       id="rect2382"
        style="fill:#40c3fe;fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
-       id="text2228"
-       y="2164.3623"
+       id="text2384"
+       y="1824.3623"
        x="11432"
        style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
        xml:space="preserve"><tspan
-         y="2164.3623"
+         y="1824.3623"
          x="11432"
-         id="tspan2230"
+         id="tspan2386"
          sodipodi:role="line">&quot;CoolMint&quot; Chewing Gum</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
        x="11435"
-       y="2202.3623"
-       id="text2232"
+       y="1862.3623"
+       id="text2388"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2234"
+         id="tspan2390"
          x="11435"
-         y="2202.3623">8 / 20</tspan></text>
+         y="1862.3623">8 / 20</tspan></text>
     <rect
-       y="2232.3623"
+       y="1442.3623"
        x="11340"
        height="80"
-       width="300"
-       id="rect2236"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect2238"
-       width="300"
-       height="220"
-       x="11340"
-       y="2312.3623" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect2240"
        width="80"
-       height="80"
-       x="11340"
-       y="2232.3623" />
+       id="rect2392"
+       style="fill:#fbe107;fill-opacity:1;stroke:none" />
     <rect
-       y="2242.3623"
-       x="11430"
-       height="31.999998"
-       width="200"
-       id="rect2242"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect2394"
+       width="320"
+       height="59.999996"
+       x="11330"
+       y="1372.3623" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.25px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11490"
+       y="1407.8564"
+       id="text2396"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2398"
+         x="11490"
+         y="1407.8564">Free University Bolzan...</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11350,1402.3622 25,0"
+       id="path2400"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2402"
+       d="m 11350,1392.3622 25,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11350,1412.3622 25,0"
+       id="path2404"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2406"
+       d="m 11610,1402.3622 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11620,1392.3622 0,20"
+       id="path2408"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="1659.951"
+       x="11819.929"
+       height="55"
+       width="300"
+       id="rect7953-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
        style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       x="11442"
-       y="2264.3623"
-       id="text2244"
+       x="11841.929"
+       y="1691.951"
+       id="text7955-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2246"
-         x="11442"
-         y="2264.3623">&quot;Mars&quot; Chocolate Bars</tspan></text>
+         id="tspan7957-1"
+         x="11841.929"
+         y="1691.951">Bolzano Train Station 1</tspan></text>
     <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect2248"
+       y="1749.951"
+       x="11819.93"
+       height="35"
        width="300"
-       height="50"
-       x="11340"
-       y="2322.3623" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2250"
-       y="2352.3623"
-       x="11360"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       xml:space="preserve"><tspan
-         y="2352.3623"
-         x="11360"
-         id="tspan2252"
-         sodipodi:role="line">Jun 05. 2014</tspan></text>
-    <rect
-       y="2372.3623"
-       x="11340"
-       height="50"
-       width="300"
-       id="rect2254"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+       id="rect8558-0"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       x="11360"
-       y="2402.3623"
-       id="text2256"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11864.931"
+       y="1771.951"
+       id="text8560-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2258"
-         x="11360"
-         y="2402.3623">Aug 02. 2015</tspan></text>
+         id="tspan8562-7"
+         x="11864.931"
+         y="1771.951">&quot;CoolMint&quot; Chewing Gum</tspan></text>
     <rect
-       y="2422.3623"
-       x="11340"
-       height="50"
-       width="300"
-       id="rect2260"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
-       x="11360"
-       y="2452.3623"
-       id="text2262"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2264"
-         x="11360"
-         y="2452.3623">Feb 16. 2017</tspan></text>
+       style="fill:#40c3fe;fill-opacity:1;stroke:none"
+       id="rect8566-3"
+       width="35"
+       height="35"
+       x="11819.93"
+       y="1749.951" />
     <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2266"
-       width="40"
-       height="40"
-       x="11500"
-       y="2327.3623" />
-    <g
-       id="g2268"
-       transform="matrix(0.7,0,0,0.9,8905.5,2147.2362)"
-       style="stroke:#333333;stroke-width:3.14970398;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         style="fill:none;stroke:#333333;stroke-width:3.14970398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3726.4286,222.36218 17.1428,0"
-         id="path2270"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-    </g>
-    <rect
-       y="2377.3623"
-       x="11500"
-       height="40"
-       width="40"
-       id="rect2272"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
-    <g
-       style="stroke:#333333;stroke-width:3.14970398;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.7,0,0,0.9,8905.5,2197.2362)"
-       id="g2274">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path2276"
-         d="m 3726.4286,222.36218 17.1428,0"
-         style="fill:none;stroke:#333333;stroke-width:3.14970398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2278"
-       width="40"
-       height="40"
-       x="11500"
-       y="2427.3623" />
-    <g
-       id="g2280"
-       transform="matrix(0.7,0,0,0.9,8905.5,2247.2362)"
-       style="stroke:#333333;stroke-width:3.14970398;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         style="fill:none;stroke:#333333;stroke-width:3.14970398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3726.4286,222.36218 17.1428,0"
-         id="path2282"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-    </g>
-    <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2284"
-       width="280"
-       height="40"
-       x="11350"
-       y="2482.3623" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2286"
-       y="2507.3623"
-       x="11490"
-       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       xml:space="preserve"><tspan
-         y="2507.3623"
-         x="11490"
-         sodipodi:role="line"
-         id="tspan2288">Add new expiration date</tspan></text>
-    <rect
-       y="2377.3623"
-       x="11590"
-       height="40"
-       width="40"
-       id="rect2290"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
-    <g
-       style="stroke:#333333;stroke-width:4.16666603;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.6000001,0,0,0.6000001,9368.9996,2263.9448)"
-       id="g2292">
-      <path
-         inkscape:connector-curvature="0"
-         id="path2294"
-         d="m 3725,222.36218 20,0"
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3735,212.36218 0,20"
-         id="path2296"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2298"
-       y="2406.3623"
-       x="11565"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       xml:space="preserve"><tspan
-         y="2406.3623"
-         x="11565"
-         id="tspan2300"
-         sodipodi:role="line">5</tspan></text>
-    <rect
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
-       id="rect2302"
-       width="40"
-       height="40"
-       x="11590"
-       y="2327.3623" />
-    <g
-       id="g2304"
-       transform="matrix(0.6000001,0,0,0.6000001,9368.9996,2213.9448)"
-       style="stroke:#333333;stroke-width:4.16666603;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3725,222.36218 20,0"
-         id="path2306"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2308"
-         d="m 3735,212.36218 0,20"
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       x="11565"
-       y="2356.3623"
-       id="text2310"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2312"
-         x="11565"
-         y="2356.3623">2</tspan></text>
-    <rect
-       y="2427.3623"
-       x="11590"
-       height="40"
-       width="40"
-       id="rect2314"
-       style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
-    <g
-       style="stroke:#333333;stroke-width:4.16666603;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.6000001,0,0,0.6000001,9368.9996,2313.9448)"
-       id="g2316">
-      <path
-         inkscape:connector-curvature="0"
-         id="path2318"
-         d="m 3725,222.36218 20,0"
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#333333;stroke-width:4.16666603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 3735,212.36218 0,20"
-         id="path2320"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text2322"
-       y="2456.3623"
-       x="11565"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold Condensed"
-       xml:space="preserve"><tspan
-         y="2456.3623"
-         x="11565"
-         id="tspan2324"
-         sodipodi:role="line">3</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path2326"
-       d="m 11612,2257.3622 6,0 L 11615,2260.3622 Z"
-       style="fill:#333333;fill-opacity:1;stroke:none" />
+       y="1432.3622"
+       x="11330"
+       height="220"
+       width="320"
+       id="rect2446"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
   </g>
 </svg>
