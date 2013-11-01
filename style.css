@@ -120,6 +120,6 @@ body {
   font-family: "Roboto Condensed";
 }
 .addexpdatebtn {
-  margin: 0 auto;
+  width: count(100% - 6mozmm)
   text-align: center;
 }
