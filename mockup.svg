@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3416667"
-     inkscape:cx="865.2083"
-     inkscape:cy="-1722.5457"
+     inkscape:zoom="0.82790419"
+     inkscape:cx="736.43878"
+     inkscape:cy="-1740.5224"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -11891,7 +11891,7 @@
        id="path2404"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:#999999;fill-opacity:1;stroke:none"
+       style="fill:#666666;fill-opacity:1;stroke:none"
        id="rect2625"
        width="40"
        height="40"
@@ -12148,7 +12148,7 @@
        x="12120"
        y="1577.3622" />
     <rect
-       style="fill:#40c3fe;fill-opacity:1;stroke:none"
+       style="fill:#666666;fill-opacity:1;stroke:none"
        id="rect2625-4"
        width="40"
        height="40"
