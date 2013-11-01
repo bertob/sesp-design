@@ -53,11 +53,11 @@ body {
 
 .listitem {
   margin: 3mozmm 3mozmm 0;
-  height: 20mozmm;
+  height: 25mozmm;
   background-color: white;
 }
 .productimg {
-  height: 20mozmm;
+  height: 25mozmm;
 }
 .productinfo {
   display: inline-block;
