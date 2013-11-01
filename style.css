@@ -97,6 +97,9 @@ body {
   float: right;
   width: 40mozmm;
 }
+.date {
+  margin-top: 1mozmm;
+}
 .countbtn {
   width: 12mozmm;
   height: 12mozmm;
