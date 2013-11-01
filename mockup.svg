@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3416667"
-     inkscape:cx="136.10781"
-     inkscape:cy="-1439.6511"
+     inkscape:zoom="0.58541667"
+     inkscape:cx="681.84607"
+     inkscape:cy="-1546.327"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -11881,7 +11881,7 @@
        height="40"
        width="40"
        id="rect2649"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
+       style="fill:#333333;fill-opacity:1;stroke:none" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 11350,1402.3622 20,0"
@@ -12089,14 +12089,14 @@
          y="1509.3622"
          x="12165.001"
          id="tspan2605"
-         sodipodi:role="line">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+         sodipodi:role="line">&quot;KitKat&quot; Chocolate</tspan></text>
     <rect
        y="1487.3622"
        x="12120"
        height="35"
        width="35"
        id="rect2607"
-       style="fill:#40c3fe;fill-opacity:1;stroke:none" />
+       style="fill:#ea1616;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#999999;fill-opacity:1;stroke:none"
        id="rect2609"
@@ -12114,14 +12114,14 @@
          y="1554.3622"
          x="12165.001"
          id="tspan2613"
-         sodipodi:role="line">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+         sodipodi:role="line">&quot;Fonzies&quot; Potato Chips</tspan></text>
     <rect
        y="1532.3622"
        x="12120"
        height="35"
        width="35"
        id="rect2615"
-       style="fill:#40c3fe;fill-opacity:1;stroke:none" />
+       style="fill:#fbe107;fill-opacity:1;stroke:none" />
     <rect
        y="1577.3622"
        x="12120"
@@ -12139,9 +12139,9 @@
          sodipodi:role="line"
          id="tspan2621"
          x="12165.001"
-         y="1599.3622">&quot;CoolMint&quot; Chewing Gum</tspan></text>
+         y="1599.3622">&quot;Mars&quot; Chocolate Bars</tspan></text>
     <rect
-       style="fill:#40c3fe;fill-opacity:1;stroke:none"
+       style="fill:#000000;fill-opacity:1;stroke:none"
        id="rect2623"
        width="35"
        height="35"
