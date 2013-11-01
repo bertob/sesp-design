@@ -1,0 +1,125 @@
+/* ############ RESET ############ */
+
+
+/* ############ TYPOGRAPHY ############ */
+* {
+	font-family: "Roboto", "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	color: #333;
+	margin: 0;
+}
+p, ul > li {
+	font-size: 5.5mozmm;
+	line-height: 1.7em;
+}
+a {
+	text-decoration: none;
+}
+
+/* ############ LAYOUT ############ */
+body {
+  background-color: #d8d8d8;
+}
+#content {
+  
+}
+
+
+#top {
+  background-color: #333;
+  margin: 0;
+  padding: 3mozmm;
+  height: 10mozmm;
+  positon: fixed;
+}
+#topleft {
+  float: left;
+}
+#topcenter {
+  display: inline-block;
+	left: 0;
+	right: 0;
+	position: absolute;
+	text-align: center;
+  margin: 3mozmm auto;
+  font-size: 4.2mozmm;
+  color: white;
+}
+#topcenter {
+}
+#topright {
+  float: right;
+}
+
+
+.listitem {
+  margin: 3mozmm 3mozmm 0;
+}
+.product {
+  height: 24mozmm;
+  background-color: white;
+}
+.productimg {
+  height: 24mozmm;
+}
+.productinfo {
+  display: inline-block;
+  position: relative;
+  top: -4.2mozmm;
+  left: 3mozmm;
+}
+.listitemtitle {
+  font-size: 4.2mozmm;
+  margin-bottom: 1mozmm;
+}
+.productcount {
+  font-family: "Roboto Condensed";
+  font-weight: 900;
+  font-size: 9mozmm;
+}
+
+
+.edit {
+  margin-top: 0;
+  padding: 5mozmm;
+  padding-top: 5mozmm;
+  background-color: #f2f2f2;
+}
+.expirationrow {
+  height: 12mozmm;
+  margin-bottom: 3mozmm;
+}
+.expirationrow > *, .expirationrow > .countcontainer > *  {
+  display: inline-block;
+}
+.countcontainer {
+  float: right;
+  width: 40mozmm;
+}
+.countcontainer > * {
+  display: inline-block;
+  float: right;
+}
+.date {
+  margin-top: 1.4mozmm;
+}
+.countbtn {
+  width: 12mozmm;
+  height: 12mozmm;
+  background-color: #d8d8d8;
+  font-size: 8mozmm;
+  font-weight: 400;
+  border: none;
+  border-radius: none;
+}
+.itemcount {
+  width: 12mozmm;
+  text-align: center;
+  font-size: 8.5mozmm;
+  font-weight: 400;
+  font-family: "Roboto Condensed";
+}
+.addexpdatebtn {
+  margin: 0 3mozmm;
+  text-align: center;
+}
