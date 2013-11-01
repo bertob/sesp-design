@@ -97,8 +97,9 @@ body {
   width: 40mozmm;
 }
 .less {
-  
+  float: left;
 }
+.more {}
 .date {
   margin-top: 1mozmm;
 }
