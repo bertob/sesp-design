@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="357.57841"
-     inkscape:cy="-1817.0807"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="20.314763"
+     inkscape:cy="-1524.5446"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -11996,7 +11996,10 @@
        width="55"
        height="55"
        x="11780"
-       y="1682.3622" />
+       y="1682.3622"
+       inkscape:export-filename="/home/tobias/SparkleShare/sesp-design/assets/product.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="1747.3622"
        x="11780"
@@ -12497,5 +12500,166 @@
          x="11567.58"
          id="tspan2772"
          sodipodi:role="line">Add product</tspan></text>
+    <rect
+       y="1372.3623"
+       x="11330"
+       height="59.999996"
+       width="320"
+       id="rect2848"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2850"
+       y="1407.8564"
+       x="11490"
+       style="font-size:16.25px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       xml:space="preserve"><tspan
+         y="1407.8564"
+         x="11490"
+         id="tspan2852"
+         sodipodi:role="line">Free University Bolzan...</tspan></text>
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect2854"
+       width="40"
+       height="40"
+       x="11340"
+       y="1382.3622" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2856"
+       d="m 11350,1402.3622 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11350,1392.3622 20,0"
+       id="path2858"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2860"
+       d="m 11350,1412.3622 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.23606801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       y="1382.3622"
+       x="11600"
+       height="40"
+       width="40"
+       id="rect2862"
+       style="fill:#333333;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11610,1402.3622 20,0"
+       id="path2864"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2866"
+       d="m 11620,1392.3622 0,20"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect2868"
+       width="320"
+       height="59.999996"
+       x="11330"
+       y="1442.3623" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.25px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11490"
+       y="1477.8564"
+       id="text2870"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2872"
+         x="11490"
+         y="1477.8564">Free University Bolzan...</tspan></text>
+    <rect
+       y="1452.3622"
+       x="11340"
+       height="40"
+       width="40"
+       id="rect2874"
+       style="fill:#333333;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11347.5,1472.3622 25,0"
+       id="path2876"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2878"
+       d="m 11347.5,1462.3622 25,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11347.5,1482.3622 25,0"
+       id="path2880"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect2882"
+       width="40"
+       height="40"
+       x="11600"
+       y="1452.3622" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2884"
+       d="m 11610,1472.3622 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11620,1462.3622 0,20"
+       id="path2886"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect8257-5"
+       width="320"
+       height="59.999996"
+       x="11330"
+       y="1302.3623" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.25px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+       x="11490"
+       y="1337.8564"
+       id="text8259-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8261-8"
+         x="11490"
+         y="1337.8564">Free University Bolzan...</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11349.999,1332.3623 25,0"
+       id="path8263-1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8265-1"
+       d="m 11349.999,1322.3623 25,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11349.999,1342.3623 25,0"
+       id="path8267-2"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8269-4"
+       d="m 11609.999,1332.3623 20,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11619.999,1322.3623 0,20"
+       id="path8271-1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
