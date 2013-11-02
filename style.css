@@ -97,7 +97,6 @@ body {
 }
 .productwrap:focus .edit {
   display: block;
-  transition
 }
 .expirationrow {
   height: 12mozmm;
