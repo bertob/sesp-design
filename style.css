@@ -59,7 +59,7 @@ body {
 .baricon {
   width: 10.5mozmm;
 }
-.baricon:hover {
+.baricon:focus {
   background-color: #fff;
 }
 
