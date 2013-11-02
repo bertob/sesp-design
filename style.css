@@ -90,7 +90,7 @@ body {
   border: 5px solid red;
   z-index: 10000000;
 }
-.productwrap:hover {
+.productwrap:focus {
   border: 5px solid green;
 }
 .productwrap:focus .edit {
