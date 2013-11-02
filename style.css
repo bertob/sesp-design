@@ -86,7 +86,7 @@ body {
   font-size: 9mozmm;
 }
 
-.productwrap:focus > .edit {
+a.productwrap:focus > .edit {
   display: block;
 }
 .edit {
