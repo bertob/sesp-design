@@ -59,6 +59,9 @@ body {
 .baricon {
   width: 10.5mozmm;
 }
+.baricon:hover {
+  background-color: 
+}
 
 
 .listitem {
