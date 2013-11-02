@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".expirationrow").event(function() {
+    $(".expirationrow").onClick(function() {
         $(thingToAffect).effect();
         $('#div a').after('<p>html element to add</p>');
 
