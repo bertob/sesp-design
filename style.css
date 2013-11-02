@@ -94,7 +94,7 @@ body {
 }
 .countcontainer {
   float: right;
-  width: 37mozmm;
+  width: 40mozmm;
 }
 .countcontainer > * {
   display: inline-block;
@@ -117,7 +117,7 @@ body {
   padding: 0;
 }
 .itemcount {
-  width: 13mozmm;
+  width: 1mozmm;
   text-align: center;
   font-size: 8.5mozmm;
   font-weight: 400;
