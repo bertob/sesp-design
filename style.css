@@ -113,6 +113,10 @@ body {
 .expirationrow {
   height: 12mozmm;
   margin-bottom: 4mozmm;
+  transition: background-color 3s;
+}
+.expirationrow:hover {
+  background-color: green;
 }
 .expirationrow > *, .expirationrow > .countcontainer > *  {
   display: inline-block;
