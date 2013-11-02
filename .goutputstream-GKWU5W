@@ -1,0 +1,143 @@
+/* ############ RESET ############ */
+
+
+/* ############ TYPOGRAPHY ############ */
+* {
+	font-family: "Roboto", "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	color: #333;
+	margin: 0;
+}
+p, ul > li {
+  font-size: 4.2mozmm;
+	line-height: 1.7em;
+}
+a {
+	text-decoration: none;
+}
+button {
+  font-size: 4.2mozmm;
+}
+
+/* ############ LAYOUT ############ */
+body {
+  background-color: #d8d8d8;
+}
+#content {
+  margin-top: 19mozmm;
+}
+
+
+#top {
+  background-color: #333;
+  margin: 0;
+  padding: 3mozmm;
+  height: 10mozmm;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 100000;
+}
+#topleft {
+  float: left;
+}
+#topcenter {
+  display: inline-block;
+	left: 0;
+	right: 0;
+	position: absolute;
+	text-align: center;
+  margin: 3mozmm 6mozmm 0 0;
+  font-size: 4.2mozmm;
+  color: white;
+}
+#topright {
+  float: right;
+  margin-right: 6mozmm;
+}
+.baricon {
+  width: 10.5mozmm;
+}
+
+
+.listitem {
+  margin: 3mozmm 3mozmm 0;
+}
+.product {
+  height: 24mozmm;
+  background-color: white;
+}
+.productimg {
+  height: 24mozmm;
+}
+.productinfo {
+  display: inline-block;
+  position: relative;
+  top: -4.2mozmm;
+  left: 3mozmm;
+}
+.listitemtitle {
+  font-size: 4.2mozmm;
+  margin-bottom: 1mozmm;
+}
+.productcount {
+  font-family: "Roboto Condensed";
+  font-weight: 900;
+  font-size: 9mozmm;
+}
+
+.productwrap:focus > .edit {
+  display: block;
+}
+.edit {
+  margin-top: 0;
+  padding: 5mozmm;
+  padding-top: 5mozmm;
+  background-color: #f2f2f2;
+  display: none;
+}
+.expirationrow {
+  height: 12mozmm;
+  margin-bottom: 4mozmm;
+}
+.expirationrow > *, .expirationrow > .countcontainer > *  {
+  display: inline-block;
+}
+.countcontainer {
+  float: right;
+  width: 37mozmm;
+}
+.countcontainer > * {
+  display: inline-block;
+  float: right;
+}
+.date {
+  margin-top: 2.8mozmm;
+}
+.btn {
+  background-color: #d8d8d8;
+  font-weight: 400;
+  border: none;
+  border-radius: none;
+}
+.countbtn {
+  height: 12mozmm;
+  width: 12mozmm;
+  font-size: 8mozmm;
+  padding: 0;
+}
+.itemcount {
+  width: 13mozmm;
+  text-align: center;
+  font-size: 7.5mozmm;
+  font-weight: 400;
+  font-family: "Roboto Condensed";
+  margin-top: 1mozmm;
+}
+.addexpdatebtn {
+  width: 100%;
+  text-align: center;
+  font-weight: 600;
+  padding: 3mozmm;
+  margin-top: 1mozmm;
+}
