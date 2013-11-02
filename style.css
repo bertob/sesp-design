@@ -92,7 +92,7 @@ body {
   overflow: none;
 }
 .edit {
-  transform: translateY(-80mozmm);
+  margin-top: -100mozmm;
   padding: 5mozmm;
   padding-top: 5mozmm;
   background-color: #f2f2f2;
