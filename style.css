@@ -89,7 +89,7 @@ body {
 
 
 .productwrap {
-  overflow: none;
+  z-index: -10000;
 }
 .edit {
   display: none;
