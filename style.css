@@ -88,7 +88,9 @@ body {
 }
 
 
-
+.productwrap {
+  overflow: none;
+}
 .edit {
   margin-top: -80mozmm;
   padding: 5mozmm;
