@@ -86,18 +86,15 @@ body {
   font-size: 9mozmm;
 }
 
-
 .productwrap:focus > .edit {
   display: block;
 }
-
-
-
 .edit {
   margin-top: 0;
   padding: 5mozmm;
   padding-top: 5mozmm;
   background-color: #f2f2f2;
+  display: none;
 }
 .expirationrow {
   height: 12mozmm;
