@@ -34,7 +34,7 @@ body {
   height: 10mozmm;
   width: 100%;
   position: fixed;
-  z-index: 10000;
+  z-index: 100000;
 }
 #topleft {
   float: left;
