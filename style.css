@@ -86,7 +86,8 @@ body {
   font-size: 9mozmm;
 }
 
-.productwrap {
+.productwrap:active {
+  border: 5px solid red;
   z-index: 10000000;
 }
 a.productwrap:focus > .edit {
