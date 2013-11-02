@@ -104,6 +104,7 @@ body {
 }
 .productwrap:focus .edit {
   display: block;
+  height: 1;
   opacity: 1;
   margin-top: 0;
   transform: translateY(0mozmm);
