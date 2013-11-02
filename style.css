@@ -58,7 +58,7 @@ body {
 }
 .baricon {
   width: 10.5mozmm;
-  background-color: 
+  background-color: #333;
 }
 .baricon:focus {
   background-color: #000;
