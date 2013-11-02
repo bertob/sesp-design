@@ -87,7 +87,9 @@ body {
 }
 
 
-.productwrap:focus > .
+.productwrap:focus > .edit {
+  
+}
 
 
 
