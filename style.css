@@ -86,7 +86,7 @@ body {
   font-size: 9mozmm;
 }
 
-.productwrap:active {
+.productwrap:hover {
   border: 5px solid red;
   z-index: 10000000;
 }
