@@ -92,8 +92,7 @@ body {
   overflow: none;
 }
 .edit {
-  display: none;
-  margin-top: -80mozmm;
+  height: 0;
   padding: 5mozmm;
   padding-top: 5mozmm;
   background-color: #f2f2f2;
