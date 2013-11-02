@@ -89,7 +89,7 @@ body {
 
 
 .productwrap {
-  z-index: -10000;
+  z-index: -10000000000;
 }
 .edit {
   display: none;
