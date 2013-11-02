@@ -98,7 +98,7 @@ body {
   padding-top: 5mozmm;
   background-color: #f2f2f2;
   opacity: 0;
-  transition-property: opacity, height; all 0.2s ease-out;
+  transition-property: opacity 0.2s ease-out, height 0.2s ease-out;
   z-index: -10000;
 }
 .productwrap:focus .edit {
