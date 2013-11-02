@@ -101,7 +101,6 @@ body {
 }
 .productwrap:focus .edit {
   display: block;
-  height: inherit;
   margin-top: 0;
 }
 .productwrap:focus {
