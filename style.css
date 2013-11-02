@@ -94,8 +94,9 @@ body {
   padding: 5mozmm;
   padding-top: 5mozmm;
   background-color: #f2f2f2;
-  display: block;
+  opacity: 0;
   transition: all 2s ease-out;
+  z-index: 0;
 }
 .productwrap:focus .edit {
   display: block;
