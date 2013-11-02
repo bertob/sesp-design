@@ -46,11 +46,9 @@ body {
 	right: 0;
 	position: absolute;
 	text-align: center;
-  margin: 3mozmm auto;
+  margin: 3mozmm;
   font-size: 4.2mozmm;
   color: white;
-}
-#topcenter {
 }
 #topright {
   float: right;
