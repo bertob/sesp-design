@@ -86,13 +86,8 @@ body {
   font-size: 9mozmm;
 }
 
-.productwrap:hover {
-  border: 5px solid red;
-  z-index: 10000000;
-}
-.productwrap:focus {
-  border: 5px solid green;
-}
+
+
 .productwrap:focus .edit {
   display: block;
 }
