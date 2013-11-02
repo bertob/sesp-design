@@ -97,18 +97,12 @@ body {
   padding: 5mozmm;
   padding-top: 5mozmm;
   background-color: #f2f2f2;
-  opacity: 0;
-  transition-property: height;
-  transition-duration: 4s;
-  transition-timing-function: ease;
   z-index: -100;
 }
 .productwrap:focus .edit {
   display: block;
   height: inherit;
-  opacity: 1;
   margin-top: 0;
-  transform: translateY(0mozmm);
 }
 .expirationrow {
   height: 12mozmm;
