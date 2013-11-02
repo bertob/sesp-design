@@ -8,7 +8,7 @@
 	color: #333;
 	margin: 0;
 }
-p, ul > li {
+p, ul > li, button {
 	font-size: 4.2mozmm;
 	line-height: 1.7em;
 }
