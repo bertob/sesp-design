@@ -1,5 +1,5 @@
 ($(document).ready(function() {
-    $(".expirationrow").onClick(function() {
+    $(".productwrap").onClick(function() {
         $(".expirationrow").after('<p>html element to add</p>');
     });
 });
