@@ -90,7 +90,7 @@ body {
   border: 5px solid red;
   z-index: 10000000;
 }
-a.productwrap:focus > .edit {
+.productwrap:focus > .edit {
   display: block;
 }
 .edit {
