@@ -102,6 +102,7 @@ body {
 }
 .productwrap:focus .edit {
   display: block;
+  
   margin-top: 0;
 }
 .productwrap:focus {
