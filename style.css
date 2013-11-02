@@ -90,6 +90,7 @@ body {
 
 .productwrap {
   z-index: -10000000000;
+  overflow: 
 }
 .edit {
   display: none;
