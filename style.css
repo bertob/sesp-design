@@ -95,7 +95,7 @@ body {
   padding-top: 5mozmm;
   background-color: #f2f2f2;
   display: none;
-  transition: margin 2s, display 2s;
+  transition: margin 2s, display 2s, transform 2s;
 }
 .productwrap:focus .edit {
   display: block;
