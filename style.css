@@ -95,10 +95,11 @@ body {
   padding-top: 5mozmm;
   background-color: #f2f2f2;
   display: none;
+  transition: margin-top 0.5s display ;
 }
 .productwrap:focus .edit {
   display: block;
-   transition: margin-top 
+  margin-top: 0;
 }
 .expirationrow {
   height: 12mozmm;
