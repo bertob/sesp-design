@@ -100,7 +100,7 @@ body {
 .productwrap:focus .edit {
   display: block;
   margin-top: 0;
-  transform: translateY(-80mozmm);
+  transform: translateY(80mozmm);
 }
 .expirationrow {
   height: 12mozmm;
