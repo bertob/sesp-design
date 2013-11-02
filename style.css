@@ -46,7 +46,7 @@ body {
 	right: 0;
 	position: absolute;
 	text-align: center;
-  margin: 3mozmm 0;
+  margin: 3mozmm -3mozmm 0 0;
   font-size: 4.2mozmm;
   color: white;
 }
