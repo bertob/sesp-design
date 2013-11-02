@@ -97,7 +97,7 @@ body {
   padding-top: 5mozmm;
   background-color: #f2f2f2;
   opacity: 0;
-  transition-property: opacity, height;
+  transition-property: height;
   transition-duration: 0.8s;
   transition-timing-function: ease;
   z-index: -10000;
