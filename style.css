@@ -126,4 +126,6 @@ body {
 .addexpdatebtn {
   width: 100%;
   text-align: center;
+  font-weight: 600;
+  padding: 3mozmm;
 }
