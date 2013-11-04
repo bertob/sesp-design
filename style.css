@@ -25,7 +25,7 @@ body {
   background-color: #d8d8d8;
 }
 #content {
-  margin-top: 19mozmm;
+  /*margin-top: 19mozmm;*/
 }
 
 
@@ -35,9 +35,9 @@ body {
   padding: 3mozmm;
   height: 10mozmm;
   width: 100%;
-  position: fixed;
   top: 0;
   z-index: 100000;
+  /*position: fixed;*/
 }
 #topleft {
   float: left;
