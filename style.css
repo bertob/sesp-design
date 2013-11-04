@@ -73,6 +73,9 @@ body {
   line-height: 2em;
   color: white;
 }
+navitem:active {
+  background-color: red;
+}
 
 /* ------ PRODUCT VIEW ------ */
 .listitem {
