@@ -62,14 +62,14 @@ body {
 }
 .mainnav {
   background-color: #666;
-  padding: 1mozmm;
+  padding: 2mozmm;
   width: 30mozmm;
   z-index: 1000000000;
   position: absolute;
   top: 14mozmm;
 }
 .navitem {
-  padding: 1.5mozmm;
+  padding: 1mozmm;
   font-size: 4.2mozmm;
   color: white;
 }
