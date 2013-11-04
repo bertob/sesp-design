@@ -60,13 +60,14 @@ body {
 .navbtn {
   height: 10.5mozmm !important;
   width: 10.5mozmm;
+  navbtn =""
 }
 .baricon {
   width: 10.5mozmm;
   background-color: #333;
 }
-.navbtn:hover {
-  background-color: #666;
+.baricon:hover {
+  /*background-color: #666;*/
 }
 .mainnav {
   background-color: #666;
