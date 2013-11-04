@@ -59,7 +59,10 @@ body {
 }
 .baricon {
   width: 10.5mozmm;
-  background-color: red;
+  background-color: #333;
+}
+.baricon:hover {
+  background-color: #666;
 }
 .mainnav {
   background-color: #666;
