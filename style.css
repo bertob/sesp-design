@@ -65,6 +65,8 @@ body {
   padding: 2mozmm;
   width: 30mozmm;
   z-index: 1000000000;
+  position: absolute;
+  top: 10mozmm;
 }
 .navitem {
   font-size: 4.2mozmm;
