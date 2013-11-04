@@ -80,7 +80,7 @@ body {
 .navitem:hover {
   background-color: #999;
 }
-.navbtn:hover > .mainnav {
+.navbtn:focus > .mainnav {
   display: block;
 }
 
