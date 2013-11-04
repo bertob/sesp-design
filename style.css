@@ -62,7 +62,7 @@ body {
 }
 
 
-/* ------ LIST VIEW ------ */
+/* ------ PRODUCT VIEW ------ */
 .listitem {
   margin: 3mozmm 3mozmm 0;
 }
@@ -90,6 +90,7 @@ body {
 }
 
 
+/* ------ TOP BAR ------ */
 .productwrap {
   z-index: -10000000000;
   overflow: visible;
