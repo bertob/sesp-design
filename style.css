@@ -61,6 +61,7 @@ a.navbtn {
   height: 10.5mozmm !important;
   width: 10.5mozmm !important;
   background-color: red;
+  border: 4px solid red;
 }
 .baricon {
   width: 10.5mozmm;
