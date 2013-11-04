@@ -76,7 +76,9 @@ body {
 .navitem:hover {
   background-color: #999;
 }
-.mainnav:focus 
+.mainnav:focus {
+  display: 
+}
 
 /* ------ PRODUCT VIEW ------ */
 .listitem {
