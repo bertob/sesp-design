@@ -73,7 +73,7 @@ body {
   font-size: 4.2mozmm;
   color: white;
 }
-navitem:hover {
+.navitem:hover {
   background-color: red;
   color: blue;
 }
