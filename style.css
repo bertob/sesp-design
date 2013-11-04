@@ -58,7 +58,7 @@ body {
   float: right;
 }
 .navbtn {
-  height: 10.5mozmm;
+  height: 10.5mozmm !important;
   width: 10.5mozmm;
 }
 .baricon {
