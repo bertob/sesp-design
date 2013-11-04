@@ -59,7 +59,7 @@ body {
 }
 .navbtn {
   height: 10.5mozmm !important;
-  width: 10.5mozmm;
+  width: 10.5mozmm !important;
   background-color: red;
 }
 .baricon {
