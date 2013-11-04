@@ -74,8 +74,7 @@ body {
   color: white;
 }
 .navitem:hover {
-  background-color: red;
-  color: blue;
+  background-color: #666;
 }
 
 /* ------ PRODUCT VIEW ------ */
