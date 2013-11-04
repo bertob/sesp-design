@@ -63,7 +63,9 @@ body {
 .mainnav {
   background-color: #666;
   padding: 3mozmm;
-  
+}
+.navitem {
+  font-size: 4.2mozmm;
 }
 
 /* ------ PRODUCT VIEW ------ */
