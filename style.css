@@ -66,7 +66,7 @@ body {
   z-index: 1000000000;
   position: absolute;
   top: 14mozmm;
-  
+  display: none;
 }
 .navitem {
   padding: 1.4mozmm 3mozmm 1mozmm;
@@ -76,6 +76,7 @@ body {
 .navitem:hover {
   background-color: #999;
 }
+
 
 /* ------ PRODUCT VIEW ------ */
 .listitem {
