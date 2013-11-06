@@ -1,7 +1,6 @@
-@main(title: String) {
+@main(title: String)(topbar: "ad") {
 	@import tags._
 	
-	@topbar("add")
 	<section id="content">
 		@for(product <- products) {
 		    <a class="productwrap" href="#nolink">
