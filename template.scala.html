@@ -37,6 +37,10 @@
 
 	<section id="content">
 		
+		@for(order <- orders) {
+            <li>@order.getTitle()</li>
+        }
+		
 		<a class="productwrap" href="#nolink">
 		    <section class="listitem product">
 			    <img class="productimg" src="assets/product.png">
