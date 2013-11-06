@@ -1,5 +1,14 @@
 @(customer: Customer, products: List[Product])
-
+@(title: String)(content: Html)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>@title</title>
+  </head>
+  <body>
+    <section class="content">@content</section>
+  </body>
+</html>
 
 <!DOCTYPE html>
 
