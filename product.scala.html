@@ -22,17 +22,3 @@
 			    <!-- <button class="addexpdatebtn btn">Add new expiration date</button> -->
 		    </section>
 		</a>
-
-
-@(type: String = "basic")
-
-	<header id="top">
-		<a href="#"><img id="topleft"class="baricon menu" src="assets/menu.svg"></a>
-		<a href="#"><h1 id="topcenter">machine.name</h1></a>
-        @type match { 
-            case "add" => {
-                <a href="#"><img id="topright" class="baricon additem" src="assets/add.svg"></a>
-            }            
-        }
-	</header>
-	
