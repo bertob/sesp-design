@@ -1,6 +1,10 @@
 @main(title: String) {
     
-  <h1>Home page</h1>
+    @import tags._
+ 
+@notice("error") { color =>
+  Oops, something is <span style="color:@color">wrong</span>
+}
     
 }
 
