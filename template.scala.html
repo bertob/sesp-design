@@ -37,22 +37,23 @@
 
 	<section id="content">
 		
-		@for(order <- orders) {
-            <li>@order.getTitle()</li>
+		@for(product <- products) {
+            <li>@p.getTitle()</li>
+            <a class="productwrap" href="#nolink">
+		        <section class="listitem product">
+			        <img class="productimg" src="assets/product.png">
+			        <div class="productinfo">
+				        <h3 class="listitemtitle">@product.name</h3>
+				        <h1 class="productcount">11 / 20</h1>
+			        </div>
+		        </section>
+		        <section class="listitem edit">
+			        <button class="addexpdatebtn btn">Add new expiration date</button>
+		        </section>
+		    </a>
         }
 		
-		<a class="productwrap" href="#nolink">
-		    <section class="listitem product">
-			    <img class="productimg" src="assets/product.png">
-			    <div class="productinfo">
-				    <h3 class="listitemtitle">KitKat Chocolate</h3>
-				    <h1 class="productcount">11 / 20</h1>
-			    </div>
-		    </section>
-		    <section class="listitem edit">
-			    <button class="addexpdatebtn btn">Add new expiration date</button>
-		    </section>
-		</a>
+		
 		
 		<a class="productwrap" href="#nolink">
 		    <section class="listitem product">
