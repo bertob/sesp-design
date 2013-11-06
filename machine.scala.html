@@ -1,31 +1,30 @@
 @main(title: String)(topbar: "add") {
 	@import tags._
-	
-	
-		@for(product <- products) {
-		    <a class="productwrap" href="#nolink">
-			    <section class="listitem product">
-				    <img class="productimg" src="assets/product.png">
-				    <div class="productinfo">
-					    <h3 class="listitemtitle">@product.name</h3>
-					    <h1 class="productcount">product.number / product.maxNumber</h1>
-				    </div>
-				    
-			    </section>
-			    <section class="listitem edit">
-			        
-			        <section class="expirationrow">
-					    <p class="date">product.expirationDate.toString()</p>
-					    <section class="countcontainer">
-						    <button class="countbtn btn more">+</button>
-						    <h2 class="itemcount">product.number</h2>
-						    <button class="countbtn btn less">–</button>
-					    </section>
+		
+	@for(product <- products) {
+	    <a class="productwrap" href="#nolink">
+		    <section class="listitem product">
+			    <img class="productimg" src="assets/product.png">
+			    <div class="productinfo">
+				    <h3 class="listitemtitle">@product.name</h3>
+				    <h1 class="productcount">product.number / product.maxNumber</h1>
+			    </div>
+			    
+		    </section>
+		    <section class="listitem edit">
+		        
+		        <section class="expirationrow">
+				    <p class="date">product.expirationDate.toString()</p>
+				    <section class="countcontainer">
+					    <button class="countbtn btn more">+</button>
+					    <h2 class="itemcount">product.number</h2>
+					    <button class="countbtn btn less">–</button>
 				    </section>
-				    
-				    <button class="addexpdatebtn btn">Add new expiration date</button>
 			    </section>
-			</a>
-		}
+			    
+			    <button class="addexpdatebtn btn">Add new expiration date</button>
+		    </section>
+		</a>
+	}
 	
 }
