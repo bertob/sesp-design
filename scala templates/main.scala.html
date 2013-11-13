@@ -1,0 +1,16 @@
+@import tags._
+
+@(title: String)(topbar: String)(content: Html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>@title</title>
+  </head>
+  <body>
+  	@topbar(topbar)
+  	<section id="content">
+    	@content
+    </section>
+  </body>
+</html>

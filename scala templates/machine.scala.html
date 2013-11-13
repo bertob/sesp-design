@@ -1,0 +1,8 @@
+@import tags._
+
+@main(title: String)(topbar: "add") {
+	@for(p <- products) {
+		@product(p)	
+	}
+}
+
